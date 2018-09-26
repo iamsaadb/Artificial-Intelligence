@@ -1,7 +1,3 @@
-Name:  Saad Bouayad
-SF Student ID:  91 74 86 86 1
-
-
 For the first function "addition" I just had to return the sum of the two arguments
 For the second file, I went through the list and checked if the fruit exists: 
 if it exists, I calculated the cost by multiplying the weight by the cost per pound 
